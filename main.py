@@ -1,0 +1,7 @@
+print ("welcome, please signup")
+First_name = str(input("Your first name:"))
+Last_name = str(input("Your last name:"))
+User_name = str(input("Your username:"))
+Email = str(input("Your email:"))
+Phone_number = int(input("Your phone number"))
+print(f"{User_name}, your signup was successifful.")
